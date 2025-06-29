@@ -1,1 +1,1 @@
-# Basic-Port-Sacnner
+# Basic-Port-Scanner
