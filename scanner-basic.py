@@ -1,5 +1,5 @@
 # Escáner de Puertos Básico
-# El escane se limitara entre el puerto 1 al 1024
+# El escaner se limitara entre el puerto 1 al 1024
 
 import socket
 import argparse
